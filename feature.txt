@@ -1,0 +1,40 @@
+
+Projeto > Shopping de Beleza
+	
+	Revisão:
+		Data: 
+		Revisador:
+
+	Integrantes:
+
+		Owner: 				
+			Rui Mario Gomes	
+
+		Desenvolvedores:
+			Rui Mario Gomes
+			Paulo Henrique Marsoleta
+
+	Requisitos:
+
+		Cliente:
+			1 - Agendar serviços (logado) 
+			2 - Confirmar agendamento (logado)
+			3 - Desmarcar agendamento (logado)
+			4 - Visualizar agenda
+			5 - Cadastro básico
+			6 - Visualizar tabela de preço por salão
+			7 - Visualizar imagens dos serviços, por salão
+			8 - Compartilhar com redes sociais
+			9 - Dia da noiva (pensar melhor sobre o assunto)
+			10 - Visualizar promoções
+
+		Usuário (Funcionários do salão):
+			1 - Visualizar a agenda (de forma do admin)
+			2 - Cadastrar os tipos de serviços realizados pelo salão
+			3 - CRUD de preços dos serviços
+			4 - Marcar/Desmarcar serviços de clientes
+			5 - CRUD de imagens dos serviços
+			6 - Envio de invite
+			7 - CRUD de promoções
+			8 - Config do dia da noiva (pensar melhor como irá funcionar)
+
